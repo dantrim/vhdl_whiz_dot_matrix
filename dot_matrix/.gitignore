@@ -1,0 +1,12 @@
+work
+libs
+*.mti
+*.wlf
+wlf*
+vsim.wlf
+vsim_stacktrace.vstf
+*.mpf
+dot_matrix
+dot_matrix_sim
+impl
+.vscode
